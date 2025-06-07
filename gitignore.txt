@@ -1,0 +1,7 @@
+# Ignore dataset
+data/WeatherEvents_Jan2016-Dec2022.csv
+
+# Jupyter and Python artifacts
+*.ipynb_checkpoints
+__pycache__/
+*.pyc
